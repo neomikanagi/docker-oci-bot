@@ -1,4 +1,10 @@
-## 1. Deploy and Start the Container
+## 1. Infrastructure Preparation (Run once only)
+
+```bash
+mkdir -p /docker/oci-bot
+```
+
+## 2. Deploy and Start the Container
 
 pulls the latest image from GitHub Container Registry.
 
